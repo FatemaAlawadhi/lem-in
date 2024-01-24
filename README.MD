@@ -97,7 +97,7 @@ Which corresponds to the following representation :
 go run . FileName
 ```
 
-to test the programm with given bad and good input files, you can run test.sh by
+To test the program with given bad and good input files, run test.sh by
 `bash test.sh`
 
 ## Logic used to implement the project
