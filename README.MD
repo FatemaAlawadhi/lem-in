@@ -91,6 +91,10 @@ Which corresponds to the following representation :
 - The program must handle errors carefully. In no way can it quit in an unexpected manner.
 - The coordinates of the rooms will always be int.
 
+## Example
+
+https://github.com/user-attachments/assets/970a2083-8dfc-4465-a90f-5cec738b613c
+
 ## USAGE
 
 ```
@@ -137,9 +141,7 @@ To test the program with given bad and good input files, run test.sh by
 ## AUTHORS
 
 - Fatema Alawadhi
-- Asma Ahmed
 - Tasneem Mearaj
-- Maria Haneef
 
 ## LICENSES
 
